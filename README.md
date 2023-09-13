@@ -12,3 +12,5 @@
 - Запустить проект `npm start`
 
 ### Все ключи и адреса используются нарочно в тестовых целях
+
+Demo: https://www.youtube.com/watch?v=KlEst2H45OM (10 min video)
