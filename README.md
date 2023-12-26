@@ -13,4 +13,4 @@
 
 ### Все ключи и адреса используются нарочно в тестовых целях
 
-Demo: https://www.youtube.com/watch?v=KlEst2H45OM (10 min video)
+Demo: [DEMO APP VIDEO](https://www.youtube.com/watch?v=4dWu89huM7w) (10 min video)
